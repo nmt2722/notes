@@ -2,10 +2,13 @@ title: Notes
 description: A simple site built using Github Pages and Jekyll.
 theme: jekyll-theme-slate
 
-navigation:
-  - Home: /
-  - About: /about
-  - Contact: /contact
+main_navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Documentation"
+    url: "/docs/"
+  - title: "Contact"
+    url: "/contact/"
 
-paginate: 5
-paginate_path: "/page:num/"

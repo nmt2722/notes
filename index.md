@@ -9,6 +9,40 @@
 
 ## Article2
 
+Accordians
+
+## Frequently Asked Questions
+
+
+
+<details>
+
+  <summary>What is this product?</summary>
+
+  <p>This product is a revolutionary new way to...</p>
+
+</details>
+
+
+
+<details>
+
+  <summary>How do I use it?</summary>
+
+  <p>To use this product, simply...</p>
+
+</details>
+
+
+
+<details>
+
+  <summary>Where can I buy it?</summary>
+
+  <p>You can purchase this product at our online store.</p>
+
+</details>
+
 ## Article3
 
 

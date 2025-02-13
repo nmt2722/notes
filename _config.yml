@@ -1,6 +1,6 @@
 title: Notes
 description: A simple site built using Github Pages and Jekyll.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-dinky
 
 navigation:
   - Home: /

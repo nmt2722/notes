@@ -189,14 +189,75 @@ I love GitHub! :heart:
 
 ## Topic 3
 ### Sub Topic1
+> **Note**: This is an informational message. It provides helpful context or details.
+>
+> **Warning**: Be careful! This could result in data loss.
+>
+> **Danger**: This action cannot be undone. Proceed with caution.
+
 ### Sub Topic2
+```python
+def hello_world():
+    print("Hello, world!")
+---
 ### Sub Topic3
+
+
+- **Tip**: GitHub recognizes many programming languages (like `python`, `javascript`, `html`, etc.), and it will automatically apply syntax highlighting.
+
+---
+
+### 3. **Tables for Data Presentation**
+In MkDocs, tables are often used to present structured data, and you can replicate that in GFM too. GitHub also supports basic Markdown tables.
+
+#### Example: Creating Tables
+
+```markdown
+| Feature        | Description            | Status  |
+|----------------|------------------------|---------|
+| Markdown       | Lightweight markup     | Supported |
+| HTML Support   | Raw HTML inside Markdown | Limited |
+| Tables         | Easy to create        | Supported |
+
 ### Sub Topic4
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+<figcaption>GitHub Logo</figcaption>
+
 ### Sub Topic5
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+
+## Introduction
+Here is the introduction section.
+
+## Features
+Description of features.
+
+## Installation
+How to install the software.
+
 ## Topic 4
 ### Sub Topic1
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ### Sub Topic2
+[GitHub](https://github.com "Click to visit GitHub")
+
 ### Sub Topic3
+:bulb: **Note**: This is an informational message.
+:warning: **Warning**: Something could go wrong.
+:rocket: **Success**: You’ve made great progress!
+
 ### Sub Topic4
+## Documentation Index
+- [Getting Started](getting_started.md)
+- [Advanced Usage](advanced_usage.md)
+- [API Reference](api_reference.md)
+
 ### Sub Topic5
 

@@ -5,7 +5,7 @@
 **[Contact](/contact.md)**
 
 ## Article1
-
+[Admonitions](/core1.md)
 
 ## Article2
 

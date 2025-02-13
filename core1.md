@@ -9,7 +9,30 @@
 > other types are TIP WARNING and CAUTION
 
 ---
+:::note[Your Title **with** some _Markdown_ `syntax`!]
 
+Some **content** with some _Markdown_ `syntax`.
+
+:::
+---
+:::::info[Parent]
+
+Parent content
+
+::::danger[Child]
+
+Child content
+
+:::tip[Deep Child]
+
+Deep child content
+
+:::
+
+::::
+
+:::::
+---
 ### Sub Topic2 Tabs
    **Tab 1** 
 
@@ -60,7 +83,35 @@
 
 </details>
 
-### Sub Topic4
+### Sub Topic4 Tabbed
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+### tab Articles
+
+tab content  Articles
+
+### tab Skills
+
+tab content  Skills
+
+### tab Insights
+
+tab content  Insights
+
+content below tabbed region
 ### Sub Topic5
 ## Topic 2
 ### Sub Topic1

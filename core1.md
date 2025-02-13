@@ -10,8 +10,56 @@
 
 ---
 
-### Sub Topic2
-### Sub Topic3
+### Sub Topic2 Tabs
+   **Tab 1** 
+
+   * Content for Tab 1
+
+
+
+   **Tab 2** 
+
+   * Content for Tab 2
+
+
+
+   **Tab 3** 
+
+   * Content for Tab 3
+
+### Sub Topic3 Accordians
+## Frequently Asked Questions
+
+
+
+<details>
+
+  <summary>What is this product?</summary>
+
+  <p>This product is a revolutionary new way to...</p>
+
+</details>
+
+
+
+<details>
+
+  <summary>How do I use it?</summary>
+
+  <p>To use this product, simply...</p>
+
+</details>
+
+
+
+<details>
+
+  <summary>Where can I buy it?</summary>
+
+  <p>You can purchase this product at our online store.</p>
+
+</details>
+
 ### Sub Topic4
 ### Sub Topic5
 ## Topic 2

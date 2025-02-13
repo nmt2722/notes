@@ -53,7 +53,9 @@ Deep child content
 
    * Content for Tab 3
 
+
 ### Sub Topic3 Accordians
+
 ## Frequently Asked Questions
 
 
@@ -86,7 +88,9 @@ Deep child content
 
 </details>
 
+
 ### Sub Topic4 Tabbed
+
 ## title {.tabset .tabset-fade}
 content above tabbed region.
 
@@ -115,6 +119,7 @@ tab content  Skills
 tab content  Insights
 
 content below tabbed region
+
 ### Sub Topic5
 Foot Notes
 This is a sentence with a footnote[^1].
@@ -188,6 +193,7 @@ I love GitHub! :heart:
 </div>
 
 ## Topic 3
+
 ### Sub Topic1
 > **Note**: This is an informational message. It provides helpful context or details.
 >
@@ -195,13 +201,13 @@ I love GitHub! :heart:
 >
 > **Danger**: This action cannot be undone. Proceed with caution.
 
+
 ### Sub Topic2
 ```python
 def hello_world():
     print("Hello, world!")
----
-### Sub Topic3
 
+### Sub Topic3
 
 - **Tip**: GitHub recognizes many programming languages (like `python`, `javascript`, `html`, etc.), and it will automatically apply syntax highlighting.
 

@@ -1,6 +1,15 @@
 # Page Title
-## Topic 1
+## Topic 1 Admonitions
 ### Sub Topic1
+>[! IMPORTANT]
+> information goes here
+---
+>[! NOTE]
+> information goes here
+> other types are TIP WARNING and CAUTION
+
+---
+
 ### Sub Topic2
 ### Sub Topic3
 ### Sub Topic4

@@ -17,7 +17,7 @@ Accordians
 
 <details>
 
-  <summary>What is this product?</summary>
+  <h2><summary>What is this product?</summary></h2>
 
   <p>This product is a revolutionary new way to...</p>
 
@@ -27,7 +27,7 @@ Accordians
 
 <details>
 
-  <summary>How do I use it?</summary>
+  <h2><summary>How do I use it?</summary></h2>
 
   <p>To use this product, simply...</p>
 
@@ -37,7 +37,7 @@ Accordians
 
 <details>
 
-  <summary>Where can I buy it?</summary>
+  <h2><summary>Where can I buy it?</summary></h2>
 
   <p>You can purchase this product at our online store.</p>
 

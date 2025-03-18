@@ -4,10 +4,18 @@
 **[About](/about.md)**
 **[Contact](/contact.md)**
 
-## Article1
-[Admonitions](/core1.md)
-
-## Article2
+## [REAL NUMBERS](./realnumbers.md)
+## POLYNOMIALS
+## PAIR OF LINEAR EQUATIONS IN TWO VARIABLES
+## QUADRATIC EQUATIONS
+## ARITHMETIC PROGRESSIONS
+## TRIANGLES
+## COORDINATE GEOMETRY
+## TRIGONOMETRY
+## CIRCLES
+## SURFACE AREAS AND VOLUMES
+## STATISTICS
+## PROBABILITY
 
 Accordians
 

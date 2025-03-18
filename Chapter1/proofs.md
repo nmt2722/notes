@@ -1,4 +1,5 @@
-Sure! In arithmetic and mathematics in general, there are several methods to prove or verify statements. Here, I'll explain some of the most common methods of proof, using simple examples that should be easy for 10th-grade students to understand.
+## Methods of Proof
+In arithmetic and mathematics in general, there are several methods to prove or verify statements. Some of the most common methods of proof, using simple examples are presented below:-.
 
 ### 1. **Direct Proof**
 
@@ -128,6 +129,8 @@ Let's prove that the sum of any two numbers, one even and one odd, is odd.
 
 These methods help mathematicians establish the truth of statements and are widely used in arithmetic and other areas of math!
 
+### When to use what method
+
 Each proof method is most useful in different scenarios. Here’s a breakdown of where each proof method is typically applied, with examples to help you understand when to use them:
 
 ### 1. **Direct Proof**
@@ -193,7 +196,7 @@ Each proof method is most useful in different scenarios. Here’s a breakdown of
 
 Each proof method has its own strengths and is suited for different types of problems, depending on the structure and nature of the statement you're trying to prove!
 
-Great question! When it comes to proving a number is **irrational**, **proof by contradiction** is the most commonly used method, but it is not the only method. However, other methods are usually quite specific or less commonly used for this purpose. Let’s explore these methods in more detail!
+When it comes to proving a number is **irrational**, **proof by contradiction** is the most commonly used method, but it is not the only method. However, other methods are usually quite specific or less commonly used for this purpose. Let’s explore these methods in more detail!
 
 ### 1. **Proof by Contradiction (The Most Common Method)**
 

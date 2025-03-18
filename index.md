@@ -17,42 +17,9 @@
 ## STATISTICS
 ## PROBABILITY
 
-Accordians
-
-## Frequently Asked Questions
 
 
 
-<details>
-
-  <h2><summary>What is this product?</summary></h2>
-
-  <p>This product is a revolutionary new way to...</p>
-
-</details>
 
 
-
-<details>
-
-  <h2><summary>How do I use it?</summary></h2>
-
-  <p>To use this product, simply...</p>
-
-</details>
-
-
-
-<details>
-
-  <h2><summary>Where can I buy it?</summary></h2>
-
-  <p>You can purchase this product at our online store.</p>
-
-</details>
-
-## Article3
-
-
-## Article 4
 

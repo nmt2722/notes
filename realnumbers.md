@@ -1,6 +1,6 @@
 # REAL NUMBERS
 ## PREAMBLE
-[## THE FUNDAMENTAL THEOREM OF ARITHMETIC](./fundamentaltheoremofarithmetic.md)
+## [THE FUNDAMENTAL THEOREM OF ARITHMETIC](./fundamentaltheoremofarithmetic.md)
 ## IRRATIONAL NUMBERS
 ## SUMMARY
 ## RECEPIES
